@@ -23,7 +23,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://www.pngplay.com/wp-content/uploads/9/Java-PNG-Clipart-Background.png" height="60" alt="Java logo"  />
   <img width="12" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-2-logo-png-transparent.png" height="20" alt="Kotlin logo"  />
