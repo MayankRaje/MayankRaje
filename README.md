@@ -1,3 +1,5 @@
+<div style="color: green">
+  
 <h2 align="center">Hi 👋! My name is Mayank Raje and I'm a Software Engineer</h2>
 <p align='center'>
   A passionate Software Engineer from India 🇮🇳,exploring the wonders of code.
@@ -72,7 +74,7 @@
 
 Keep an eye on my GitHub activity and contributions.
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MayankRaje&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MayankRaje&show_icons=true&theme=dracula&hide_border=false)
 
 ## 📈 Most Used Languages
 
@@ -85,3 +87,5 @@ See what languages I'm most proficient in.
 Let's see how many people have visited my profile!
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=MayankRaje)
+
+</div>
