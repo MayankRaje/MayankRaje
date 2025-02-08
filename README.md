@@ -5,9 +5,13 @@
   A passionate Software Engineer from India 🇮🇳,exploring the wonders of code.
 </p>
 <div align="center">
+  <a href="https://www.linkedin.com/in/mayank-raje-361732178/">
   <img src="https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" height="45" alt="linkedin logo"  />
   <img width="12" />
+  </a>  
+  <a href="https://leetcode.com/u/user5721r/">
   <img src="https://tse3.mm.bing.net/th?id=OIP.hSz5vzCQFic84JJfNgs1qwHaB4&pid=Api&P=0&h=180" height="35" alt="LeetCode logo"  />
+  </a>  
 </div>
 
 
