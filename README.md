@@ -1,50 +1,87 @@
-<h2 align="left">Hi 👋! My name is Mayank Raje and I'm a Software Engineer, from India</h2>
-
-###
-
+<h2 align="center">Hi 👋! My name is Mayank Raje and I'm a Software Engineer</h2>
+<p align='center'>
+  A passionate Software Engineer from India 🇮🇳,exploring the wonders of code.
+</p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo.png" height="45" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://tse3.mm.bing.net/th?id=OIP.hSz5vzCQFic84JJfNgs1qwHaB4&pid=Api&P=0&h=180" height="35" alt="LeetCode logo"  />
 </div>
 
+
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MayankRaje&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph"   width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MayankRaje&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="70%"/>
+</div>
+
+
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://www.pngplay.com/wp-content/uploads/9/Java-PNG-Clipart-Background.png" height="60" alt="Java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-2-logo-png-transparent.png" height="20" alt="Kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://tse2.mm.bing.net/th?id=OIP.AY-Y79lrF8Xa7rfwe22PPQHaB3&pid=Api&P=0&h=180" height="20.5" alt="MySQl logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://tse3.mm.bing.net/th?id=OIP.G-NQH6vspKcwcymCDh8UtgHaDt&pid=Api&P=0&h=180" height="33" alt="Redis logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://repository-images.githubusercontent.com/149085612/76e31b00-782c-11e9-8fdc-eec6e93d055b" height="33" alt="Spring logo"  />
+  <img width="12" />
+  <img src="https://tse2.mm.bing.net/th?id=OIP.f9z4xgUq0oCzEoyNanFLLQHaEb&pid=Api&P=0&h=180" height="25" alt="Aws logo"  />
+  <img width="12" />
+  <img src="https://tse1.mm.bing.net/th?id=OIP.LykWbfvK-YaEH95nGOi2XgHaBm&pid=Api&P=0&h=180" height="23" alt="Kubernetes logo"  />
+  <img width="12" />
+  <img src="https://www.yalco.kr/images/lectures/git-github/main.png" height="37" alt="Git logo"  />
+  <img width="12" />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 ###
+
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on exciting Backend projects.
+- 🌱 I’m always learning and exploring new technologies.
+- 💬 Ask me about anything tech-related or for some coding tips!
+
+## 😄 Fun Facts
+
+- I enjoy solving algorithmic challenges on LeetCode.
+
+## 📊 GitHub Stats
+
+Keep an eye on my GitHub activity and contributions.
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MayankRaje&show_icons=true)
+
+## 📈 Most Used Languages
+
+See what languages I'm most proficient in.
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MayankRaje&theme=blue-green)
+
+## 👀 Profile View Counter
+
+Let's see how many people have visited my profile!
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=MayankRaje)
